@@ -6,6 +6,6 @@ namespace Mir.Ethernity.MapLibrary
     {
         public ushort Width { get; set; }
         public ushort Height { get; set; }
-        public MapCell[] Cells { get; set; }
+        public MapCell[,] Cells { get; set; }
     }
 }

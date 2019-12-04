@@ -5,7 +5,8 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Authors>bvadell</Authors>
     <Company>mir-ethernity</Company>
-    <Version>1.0.2</Version>
+    <Version>1.0.5</Version>
+    <PackageProjectUrl>https://github.com/mir-ethernity/map-library</PackageProjectUrl>
   </PropertyGroup>
 
 </Project>
